@@ -90,6 +90,7 @@ sections:
         image_alt: Feature 2 illustration
         media_position: left
         media_width: sixty
+        align: right
       - title: Consulting
         subtitle: 'Experienced communications direction, at your service'
         content: >-
