@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Experienced copywriting and communication
-    subtitle: 'With 20 years of experience and lorem ipsum dolor elet,'
+    subtitle: 'With 20 years of experience, lorem ipsum dolor sit amet consectetur.'
     actions:
       - label: Contact Me
         url: /contact
