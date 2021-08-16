@@ -148,5 +148,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://marvelous-hedgehog-98a27.netlify.app"
+    "domain": "https://marvelous-hedgehog-98a27.netlify.app",
+    "favicon": "/images/tm-favicon.png"
 }
