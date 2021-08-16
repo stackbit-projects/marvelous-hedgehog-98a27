@@ -91,7 +91,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Consulting
-        subtitle: 'Experienced communications direction, at your service.'
+        subtitle: 'Experienced communications direction, at your service'
         content: >-
           I will dive into the ins and outs of your product or service and make
           sure the right information is communicated throughout your
