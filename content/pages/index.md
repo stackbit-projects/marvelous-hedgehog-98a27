@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Experienced copywriting and communication
-    subtitle: With more than 20 years' experience and C-level
+    subtitle: With more than 20 years' experience and C-lev
     actions:
       - label: Contact Me
         url: /contact
