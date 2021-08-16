@@ -8,7 +8,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: primary
-    image: /images/root5-road.png
+    image: /images/root5-hero3.png
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
