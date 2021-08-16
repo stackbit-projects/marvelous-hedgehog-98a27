@@ -27,7 +27,7 @@
                 "style": "link"
             }
         ],
-        "has_secondary_nav": true,
+        "has_secondary_nav": false,
         "logo_alt": "TM logo"
     },
     "footer": {
