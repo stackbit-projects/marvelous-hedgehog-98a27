@@ -74,7 +74,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Copywriting
-        subtitle: 'Website, blog, social and more.'
+        subtitle: 'Website, blog, social and more'
         content: >
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
