@@ -75,10 +75,10 @@ sections:
         media_width: sixty
       - title: Copywriting
         subtitle: 'Website, blog, social and more.'
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >
+          I will handle content writing for your digital assets, from
+          newsletters and emails, to Facebook and Google campaigns, whitepapers,
+          case studies and product descriptions. No job is too big or small!
         actions:
           - label: Learn More
             url: /about
