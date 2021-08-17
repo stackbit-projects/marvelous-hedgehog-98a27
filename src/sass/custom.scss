@@ -1,6 +1,7 @@
 /* Custom styles here */
 .navbar__logo img {
     width: 100%;
+    height: 2.5rem; // fixes on Firefox
 }
 .site-footer__logo img {
     max-width: 200px;
