@@ -8,6 +8,7 @@
 @media only screen and (min-width: 800px) {
     .navbar__logo img {
         max-height: 2.5rem;
+        height: 2.5rem; // fixes on Firefox
     }
 }
 @media only screen and (max-width: 799px) {
