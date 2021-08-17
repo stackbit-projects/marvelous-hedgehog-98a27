@@ -9,7 +9,7 @@ sections:
         url: /contact
         style: primary
     image: /images/root5-hero3.png
-    image_alt: A road with many hills
+    image_alt: A road in the mountains
     media_position: right
     media_width: fifty
     align: left
