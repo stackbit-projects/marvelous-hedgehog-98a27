@@ -9,7 +9,7 @@ sections:
         url: /contact
         style: primary
     image: /images/root5-hero3.png
-    image_alt: A smiling woman
+    image_alt: 'A road '
     media_position: right
     media_width: fifty
     align: left
