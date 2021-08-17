@@ -208,7 +208,7 @@ sections:
     background_image_opacity: 8
 seo:
   title: Marvelous Hedgehog
-  description: The preview of the Personal theme
+  description: A stackbit test site
   extra:
     - name: 'og:type'
       value: website
